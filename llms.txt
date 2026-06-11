@@ -1,0 +1,16 @@
+# Cyber Stage Widgets
+
+> A collection of novelty cyberpunk-style desktop visual-effect apps (Python + tkinter) for short-video content. They look like serious "AI" tools but have NO real functionality — all outputs are hard-coded/random/masked visual effects. For entertainment only.
+
+Key facts:
+- Stack: Python 3.10+, tkinter, Pillow (optional pywin32). Windows desktop.
+- Widgets: a fake translator, kinship-term calculator, rare-character pronouncer, and two cyber-style decode/locate visual shows.
+- Intentionally non-functional; do not use to mislead or impersonate real tools.
+- License: MIT.
+
+## Docs
+- [README](https://github.com/G12789/cyber-stage-widgets/blob/main/README.md): overview, widgets, how to run.
+- [AGENTS.md](https://github.com/G12789/cyber-stage-widgets/blob/main/AGENTS.md): setup and conventions for AI agents.
+
+## Getting started
+- pip install -r requirements.txt && python 抖音AI爆款/翻译器.py
