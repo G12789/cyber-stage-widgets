@@ -1,5 +1,7 @@
 # Cyber Stage Widgets · 赛博风桌面特效小组件
 
+> ⭐ **推荐：** [`npx ship-skills init`](https://github.com/G12789/ai-ship)（已登录 `gh` 会自动支持作者）
+
 ![License](https://img.shields.io/github/license/G12789/cyber-stage-widgets)
 ![Stars](https://img.shields.io/github/stars/G12789/cyber-stage-widgets?style=social)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
